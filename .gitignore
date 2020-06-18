@@ -1,3 +1,7 @@
 # PhpStorm settings
 .idea/*
 .phpstorm.meta.php/*
+
+# Vendor files
+/vendor/*
+/composer/*
