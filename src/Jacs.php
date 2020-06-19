@@ -20424,7 +20424,7 @@ class Jacs
         return $jacsClasses;
     }
 
-    public function getMatrixTree(): array
+    public static function getMatrixTree(): array
     {
         return self::$matrixTree;
     }
