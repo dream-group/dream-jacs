@@ -318,7 +318,7 @@ class Jacs
             4 => 1,
             'level' => 4,
             'name' => 'Chinese',
-            'description' => 'The study of the range of medical techniques with roots in China, such as moxibustion, massage, cupping, gwa sha, breath work (Qi Gong] and exercise (Tai Chi].',
+            'description' => 'The study of the range of medical techniques with roots in China, such as moxibustion, massage, cupping, gwa sha, breath work (Qi Gong) and exercise (Tai Chi).',
             'deprecated' => 0,
         ],
         'B342' => [
@@ -827,7 +827,7 @@ class Jacs
             3 => 3,
             4 => 0,
             'level' => 3,
-            'name' => 'Biomechanics & prosthetics (non-clinical]',
+            'name' => 'Biomechanics & prosthetics (non-clinical)',
             'description' => 'The study of the mechanical laws relating to the movement and structure of the human body.',
             'deprecated' => 0,
         ],
@@ -988,7 +988,7 @@ class Jacs
             4 => 0,
             'level' => 3,
             'name' => 'Behavioural biology',
-            'description' => 'The study of the behavioural strategies used by organisms in their natural environment to maximise fitness. Includes foraging, social and reproductive (including parental care, sexual selection and mate choice] behaviour, behavioural responses to predators, communication, migration and homing.',
+            'description' => 'The study of the behavioural strategies used by organisms in their natural environment to maximise fitness. Includes foraging, social and reproductive (including parental care, sexual selection and mate choice) behaviour, behavioural responses to predators, communication, migration and homing.',
             'deprecated' => 0,
         ],
         'C130' => [
@@ -1168,7 +1168,7 @@ class Jacs
             4 => 7,
             'level' => 4,
             'name' => 'Ecotoxicology',
-            'description' => 'The study of the branch of toxicology concerned with toxic effects caused by natural or synthetic pollutants, to the constituents of ecosystems (animal (including human], vegetable and microbial] in an integral context. Includes diagnostics, tolerance and adaptation in relation to natural and anthropogenic toxic substances.',
+            'description' => 'The study of the branch of toxicology concerned with toxic effects caused by natural or synthetic pollutants, to the constituents of ecosystems (animal (including human), vegetable and microbial) in an integral context. Includes diagnostics, tolerance and adaptation in relation to natural and anthropogenic toxic substances.',
             'deprecated' => 0,
         ],
         'C190' => [
@@ -1198,7 +1198,7 @@ class Jacs
             4 => 0,
             'level' => 2,
             'name' => 'Botany',
-            'description' => 'The study of plants including their classification, structure, physiology, ecology and economic importance. Includes the importance of plants for a balanced ecosystem including the process of energy fixation and conversion in to the biosphere (and thus with food and fuel]. May also be called Plant Science.',
+            'description' => 'The study of plants including their classification, structure, physiology, ecology and economic importance. Includes the importance of plants for a balanced ecosystem including the process of energy fixation and conversion in to the biosphere (and thus with food and fuel). May also be called Plant Science.',
             'deprecated' => 0,
         ],
         'C210' => [
@@ -1458,7 +1458,7 @@ class Jacs
             4 => 1,
             'level' => 4,
             'name' => 'Transcriptomics',
-            'description' => 'The branch of genetics that studies organisms in terms of their genomes (their full DNA sequences].',
+            'description' => 'The branch of genetics that studies organisms in terms of their genomes (their full DNA sequences).',
             'deprecated' => 0,
         ],
         'C450' => [
@@ -1468,7 +1468,7 @@ class Jacs
             4 => 0,
             'level' => 3,
             'name' => 'Genomics',
-            'description' => 'The study of functional genomics; the branch of molecular biology that uses data produced by genomic projects (such as genome sequencing projects] to describe gene (and protein] functions and interactions. Functional genomics focuses on the dynamic aspects such as gene transcription, translation, and protein-protein interactions.',
+            'description' => 'The study of functional genomics; the branch of molecular biology that uses data produced by genomic projects (such as genome sequencing projects) to describe gene (and protein) functions and interactions. Functional genomics focuses on the dynamic aspects such as gene transcription, translation, and protein-protein interactions.',
             'deprecated' => 0,
         ],
         'C451' => [
@@ -1478,7 +1478,7 @@ class Jacs
             4 => 1,
             'level' => 4,
             'name' => 'Functional genomics',
-            'description' => 'The study of adult stem cells, chromosome duplication, chromosome structure, comparative mapping, gene mapping, genome rearrangements, ploidy, Single Nucleotide Polymorphism (SNP], genome evolution and telomeres.',
+            'description' => 'The study of adult stem cells, chromosome duplication, chromosome structure, comparative mapping, gene mapping, genome rearrangements, ploidy, Single Nucleotide Polymorphism (SNP), genome evolution and telomeres.',
             'deprecated' => 0,
         ],
         'C452' => [
@@ -1488,7 +1488,7 @@ class Jacs
             4 => 2,
             'level' => 4,
             'name' => 'Genome organisation',
-            'description' => 'The use of various methods to manipulate the DNA (genetic material] of cells to change hereditary traits or produce biological',
+            'description' => 'The use of various methods to manipulate the DNA (genetic material) of cells to change hereditary traits or produce biological',
             'deprecated' => 0,
         ],
         'C460' => [
@@ -1638,7 +1638,7 @@ class Jacs
             4 => 0,
             'level' => 2,
             'name' => 'Sport & exercise science',
-            'description' => 'The study of the delivery (teaching, instructing and coaching] of enhanced sport performance and the critical analysis of the integration of the variables involved.',
+            'description' => 'The study of the delivery (teaching, instructing and coaching) of enhanced sport performance and the critical analysis of the integration of the variables involved.',
             'deprecated' => 0,
         ],
         'C610' => [
@@ -2288,7 +2288,7 @@ class Jacs
             4 => 0,
             'level' => 2,
             'name' => 'Others in Biological Sciences',
-            'description' => 'Miscellaneous grouping for related subjects which do not fit into the other Biological (or Life] Sciences categories. To be used sparingly.',
+            'description' => 'Miscellaneous grouping for related subjects which do not fit into the other Biological (or Life) Sciences categories. To be used sparingly.',
             'deprecated' => 0,
         ],
         'C910' => [
@@ -2308,7 +2308,7 @@ class Jacs
             4 => 0,
             'level' => 3,
             'name' => 'Biological sciences not elsewhere classified',
-            'description' => 'Miscellaneous grouping for related subjects which do not fit into the Others in Biological (or Life] Sciences categories. To be used sparingly.',
+            'description' => 'Miscellaneous grouping for related subjects which do not fit into the Others in Biological (or Life) Sciences categories. To be used sparingly.',
             'deprecated' => 0,
         ],
         'D000' => [
@@ -2798,7 +2798,7 @@ class Jacs
             4 => 5,
             'level' => 4,
             'name' => 'Biological heritage site management',
-            'description' => 'The scientific study of the conservation of land which has or contains something of rarity value; Sites of Special Scientific Interest (SSSI] and the species found there.',
+            'description' => 'The scientific study of the conservation of land which has or contains something of rarity value; Sites of Special Scientific Interest (SSSI) and the species found there.',
             'deprecated' => 0,
         ],
         'D446' => [
@@ -3068,7 +3068,7 @@ class Jacs
             4 => 0,
             'level' => 2,
             'name' => 'Food & beverage studies',
-            'description' => 'The study of the properties and behaviour of food from the point of origin on the farm (or elsewhere], through different stages of storage, transportation, preservation or other transformations, including domestic or restaurant food preparation procedures, to its use by the consumer.',
+            'description' => 'The study of the properties and behaviour of food from the point of origin on the farm (or elsewhere), through different stages of storage, transportation, preservation or other transformations, including domestic or restaurant food preparation procedures, to its use by the consumer.',
             'deprecated' => 0,
         ],
         'D610' => [
@@ -3778,7 +3778,7 @@ class Jacs
             4 => 0,
             'level' => 3,
             'name' => 'Forensic science',
-            'description' => 'The application of Forensic Science in evaluating evidence in courts of law. The techniques used include fingerprinting (both traditional and genetic], analysis of blood and poison samples, ballistics etc.',
+            'description' => 'The application of Forensic Science in evaluating evidence in courts of law. The techniques used include fingerprinting (both traditional and genetic), analysis of blood and poison samples, ballistics etc.',
             'deprecated' => 0,
         ],
         'F420' => [
@@ -4038,7 +4038,7 @@ class Jacs
             4 => 6,
             'level' => 4,
             'name' => 'Land-atmosphere interactions',
-            'description' => 'The study of the quantification and modelling of the fluxes and transformations of material and energy between the land (including the biosphere] and the atmosphere. Includes the variability of these interactions in time and space.',
+            'description' => 'The study of the quantification and modelling of the fluxes and transformations of material and energy between the land (including the biosphere) and the atmosphere. Includes the variability of these interactions in time and space.',
             'deprecated' => 0,
         ],
         'F650' => [
@@ -4178,7 +4178,7 @@ class Jacs
             4 => 2,
             'level' => 4,
             'name' => 'Oceanographic survey & monitoring',
-            'description' => 'The study of oceanographic survey mapping and monitoring (as the primary purpose of the activity, rather than as a tool].',
+            'description' => 'The study of oceanographic survey mapping and monitoring (as the primary purpose of the activity, rather than as a tool).',
             'deprecated' => 0,
         ],
         'F733' => [
@@ -4298,7 +4298,7 @@ class Jacs
             4 => 2,
             'level' => 4,
             'name' => 'Large-scale atmospheric dynamics & transport',
-            'description' => 'The study of global circulation of the troposphere and stratosphere, including time variability, wave motions (from small-scale gravity waves to large-scale planetary waves and equatorial waves] and their effect on the radiation balance. Also includes large-scale transport and mixing processes in the free troposphere and stratosphere.',
+            'description' => 'The study of global circulation of the troposphere and stratosphere, including time variability, wave motions (from small-scale gravity waves to large-scale planetary waves and equatorial waves) and their effect on the radiation balance. Also includes large-scale transport and mixing processes in the free troposphere and stratosphere.',
             'deprecated' => 0,
         ],
         'F763' => [
@@ -4657,7 +4657,7 @@ class Jacs
             3 => 2,
             4 => 1,
             'level' => 4,
-            'name' => 'Mechanics (mathematical]',
+            'name' => 'Mechanics (mathematical)',
             'description' => 'Branch of applied mathematics concerned with motion and the tendency to motion.',
             'deprecated' => 0,
         ],
@@ -4678,7 +4678,7 @@ class Jacs
             4 => 0,
             'level' => 3,
             'name' => 'Numerical analysis',
-            'description' => 'The study of the mathematical methods used to obtain approximate (numerical] results to a problem on a digital computer.',
+            'description' => 'The study of the mathematical methods used to obtain approximate (numerical) results to a problem on a digital computer.',
             'deprecated' => 0,
         ],
         'G150' => [
@@ -5357,7 +5357,7 @@ class Jacs
             3 => 6,
             4 => 2,
             'level' => 4,
-            'name' => 'Biomechanics (including fluid & solid mechanics]',
+            'name' => 'Biomechanics (including fluid & solid mechanics)',
             'description' => 'The study of how cells, tissues and organisms generate and respond to forces.',
             'deprecated' => 0,
         ],
@@ -6068,7 +6068,7 @@ class Jacs
             4 => 1,
             'level' => 4,
             'name' => 'Telecommunications engineering',
-            'description' => 'The study of the principles of engineering as they apply to the telephonic or telegraphic communication of audio, video or other information (e.g. data] by means of radio waves, optical or electrical signals.',
+            'description' => 'The study of the principles of engineering as they apply to the telephonic or telegraphic communication of audio, video or other information (e.g. data) by means of radio waves, optical or electrical signals.',
             'deprecated' => 0,
         ],
         'H642' => [
@@ -7527,7 +7527,7 @@ class Jacs
             3 => 1,
             4 => 0,
             'level' => 3,
-            'name' => 'Plant biotechnology (crops, trees, shrubs etc.]',
+            'name' => 'Plant biotechnology (crops, trees, shrubs etc.)',
             'description' => 'Involves the molecular and microbial manipulation of plants.',
             'deprecated' => 0,
         ],
@@ -7917,7 +7917,7 @@ class Jacs
             3 => 0,
             4 => 0,
             'level' => 2,
-            'name' => 'Planning (urban, rural & regional]',
+            'name' => 'Planning (urban, rural & regional)',
             'description' => 'The study of the interaction between town and country land use. Includes the use of land for building.',
             'deprecated' => 0,
         ],
@@ -8007,8 +8007,8 @@ class Jacs
             3 => 9,
             4 => 0,
             'level' => 3,
-            'name' => 'Planning (urban, rural & regional] not elsewhere classified',
-            'description' => 'Miscellaneous grouping for related subjects which do not fit into the other Planning (Urban, Rural and Regional] categories. To be used sparingly.',
+            'name' => 'Planning (urban, rural & regional) not elsewhere classified',
+            'description' => 'Miscellaneous grouping for related subjects which do not fit into the other Planning (Urban, Rural and Regional) categories. To be used sparingly.',
             'deprecated' => 0,
         ],
         'K900' => [
@@ -14478,7 +14478,7 @@ class Jacs
             4 => 2,
             'level' => 4,
             'name' => 'The Qur\'an & Islamic texts',
-            'description' => 'Includes study of the Qur\'an (Koran] and interpretation of Sharia.',
+            'description' => 'Includes study of the Qur\'an (Koran) and interpretation of Sharia.',
             'deprecated' => 0,
         ],
         'V643' => [
@@ -14878,7 +14878,7 @@ class Jacs
             4 => 1,
             'level' => 4,
             'name' => 'Instrumental or vocal performance',
-            'description' => 'The study of performance in relation to various genres of music, theatre and performing arts (concert, recital, play, ballet, operetta, circus acts, poetry].',
+            'description' => 'The study of performance in relation to various genres of music, theatre and performing arts (concert, recital, play, ballet, operetta, circus acts, poetry).',
             'deprecated' => 0,
         ],
         'W312' => [
@@ -16157,7 +16157,7 @@ class Jacs
             3 => 2,
             4 => 1,
             'level' => 4,
-            'name' => 'Training teachers - infant (key stage 1]',
+            'name' => 'Training teachers - infant (key stage 1)',
             'description' => 'The training of others to impart, explain and disseminate knowledge, skills and learning to children in school years 1 to 2 inclusive.',
             'deprecated' => 0,
         ],
@@ -16167,7 +16167,7 @@ class Jacs
             3 => 2,
             4 => 2,
             'level' => 4,
-            'name' => 'Training teachers - junior (key stage 2]',
+            'name' => 'Training teachers - junior (key stage 2)',
             'description' => 'The training of others to impart, explain and disseminate knowledge, skills and learning to children in school years 3 to 6 inclusive.',
             'deprecated' => 0,
         ],
@@ -16277,7 +16277,7 @@ class Jacs
             3 => 6,
             4 => 2,
             'level' => 4,
-            'name' => 'Teaching English as a Foreign Language (TEFL]',
+            'name' => 'Teaching English as a Foreign Language (TEFL)',
             'description' => 'The training of others to use non-standard methods to teach English to people whose first language is not English.',
             'deprecated' => 0,
         ],
@@ -16427,7 +16427,7 @@ class Jacs
             3 => 7,
             4 => 0,
             'level' => 3,
-            'name' => 'Academic studies in education (across phases]',
+            'name' => 'Academic studies in education (across phases)',
             'description' => 'The study of teaching and learning, the arrangement of the curriculum, and the investigation of the learning process in order to improve learning ability and efficiency in people of all ages.',
             'deprecated' => 0,
         ],
@@ -16685,7 +16685,7 @@ class Jacs
                     2 => 'Radiography, therapeutic',
                 ],
                 3 => [
-                    0 => 'Biomechanics & prosthetics (non-clinical]',
+                    0 => 'Biomechanics & prosthetics (non-clinical)',
                 ],
                 4 => [
                     0 => 'Dental technology',
@@ -17538,7 +17538,7 @@ class Jacs
                 ],
                 2 => [
                     0 => 'Applied mathematics',
-                    1 => 'Mechanics (mathematical]',
+                    1 => 'Mechanics (mathematical)',
                 ],
                 3 => [
                     0 => 'Mathematical methods',
@@ -17736,7 +17736,7 @@ class Jacs
                 6 => [
                     0 => 'Bioengineering, biomedical engineering & clinical engineering',
                     1 => 'Biomaterials',
-                    2 => 'Biomechanics (including fluid & solid mechanics]',
+                    2 => 'Biomechanics (including fluid & solid mechanics)',
                     3 => 'Bioelectronics & bioelectricity',
                     4 => 'Rehabilitation engineering',
                     5 => 'Tissue engineering & regenerative medicine',
@@ -18265,7 +18265,7 @@ class Jacs
                     0 => 'Biotechnology',
                 ],
                 1 => [
-                    0 => 'Plant biotechnology (crops, trees, shrubs etc.]',
+                    0 => 'Plant biotechnology (crops, trees, shrubs etc.)',
                 ],
                 2 => [
                     0 => 'Animal biotechnology',
@@ -18386,7 +18386,7 @@ class Jacs
             ],
             4 => [
                 0 => [
-                    0 => 'Planning (urban, rural & regional]',
+                    0 => 'Planning (urban, rural & regional)',
                 ],
                 1 => [
                     0 => 'Regional planning',
@@ -18409,7 +18409,7 @@ class Jacs
                     0 => 'Transport planning',
                 ],
                 9 => [
-                    0 => 'Planning (urban, rural & regional] not elsewhere classified',
+                    0 => 'Planning (urban, rural & regional) not elsewhere classified',
                 ],
             ],
             9 => [
@@ -20258,8 +20258,8 @@ class Jacs
                 ],
                 2 => [
                     0 => 'Training teachers - primary',
-                    1 => 'Training teachers - infant (key stage 1]',
-                    2 => 'Training teachers - junior (key stage 2]',
+                    1 => 'Training teachers - infant (key stage 1)',
+                    2 => 'Training teachers - junior (key stage 2)',
                 ],
                 3 => [
                     0 => 'Training teachers - secondary',
@@ -20278,7 +20278,7 @@ class Jacs
                 6 => [
                     0 => 'Training teachers - specialist',
                     1 => 'Training teachers - special needs',
-                    2 => 'Teaching English as a Foreign Language (TEFL]',
+                    2 => 'Teaching English as a Foreign Language (TEFL)',
                 ],
                 9 => [
                     0 => 'Training teachers not elsewhere classified',
@@ -20323,7 +20323,7 @@ class Jacs
                     0 => 'Academic studies in specialist education',
                 ],
                 7 => [
-                    0 => 'Academic studies in education (across phases]',
+                    0 => 'Academic studies in education (across phases)',
                 ],
                 9 => [
                     0 => 'Academic studies in education not elsewhere classified',
@@ -20413,7 +20413,7 @@ class Jacs
 
         foreach ([$s1, $s2] as $jacsClass) {
             if (array_key_exists($jacsClass, self::$jacsClasses)) {
-                $jacsClasses[] = self::$jacsClasses[$jacsClass];
+                $jacsClasses[] = self::getByCode($jacsClass);
             }
         }
 
