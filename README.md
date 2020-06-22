@@ -43,3 +43,9 @@ array (
         ),
       );
 ```
+
+## Tests
+
+To run tests, on commandline type:
+
+`composer test`
